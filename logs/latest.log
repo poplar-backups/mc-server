@@ -1,157 +1,113 @@
-[01:32:54] [Server thread/INFO]: TrueElite[/192.168.2.63:54032] logged in with entity id 87 at (844.7414374513833, 72.0, 28.583886645927784)
-[01:32:54] [Server thread/INFO]: TrueElite joined the game
-[01:33:00] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
-[01:36:30] [Server thread/INFO]: nanonfire[/50.93.53.68:55235] logged in with entity id 357 at (1156.1563560164375, 74.0, 438.2112615435607)
-[01:36:30] [Server thread/INFO]: nanonfire joined the game
-[01:36:34] [Server thread/INFO]: <TrueElite> welcom
-[01:36:47] [Server thread/INFO]: <nanonfire> hewo
-[01:37:03] [Server thread/INFO]: <nanonfire> my project is going to be a lot bigger than initially expected
-[01:38:46] [Server thread/INFO]: <TrueElite> ive been running around in spectator for 20 minutes
-[01:38:50] [Server thread/INFO]: <TrueElite> trying to find the source of a sound
-[01:38:56] [Server thread/INFO]: <TrueElite> its an undead horse stuck under the dock
-[01:39:01] [Server thread/INFO]: <nanonfire> xd
-[01:39:48] [Server thread/WARN]: TrueElite moved too quickly! -0.8257366767243184,-9.937501325751839,-2.8815137832131974
-[01:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
-[01:41:34] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[01:41:49] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
-[01:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:42:11] [Server thread/INFO]: <TrueElite> where
-[01:42:13] [Server thread/INFO]: <TrueElite> are my dogs
-[01:42:33] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[01:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:43:21] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[01:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[01:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 7.773654664139372,0.0,-6.792167271346102
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.064130618824151,0.0,-7.0617079653767405
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.356636922307814,0.0,-7.329477132488364
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.651112489986247,0.0,-7.595475730359794
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.947487057125784,0.0,-7.859721854095028
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.245684736244698,0.0,-8.122246234100203
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.545624789866793,0.0,-8.383091138328723
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.847224637542752,0.0,-8.642306329563667
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 10.150397849676665,0.0,-8.8999514656673
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 7.984602748395616,0.0,-6.583669682079176
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.300095034971264,0.0,-6.828672186034623
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.612292510520547,0.0,-7.077488517567872
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 8.919443574953505,0.0,-7.33167144778929
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.21950681798495,0.0,-7.5927122473939335
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.510762378518564,0.0,-7.86156971083642
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.791812473554842,0.0,-8.138783863566232
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 10.061554076091852,0.0,-8.424579168392597
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 10.319152833257988,0.0,-8.718943717043203
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 10.564022250626635,0.0,-9.02168985195999
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 10.795788374038693,0.0,-9.332507321479284
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 11.014256964819083,0.0,-9.65100388870485
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.2026060744424285,0.0,-8.705593542460974
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.251744362234774,0.0,-9.08968907081237
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.294274278535397,0.0,-9.475339124478523
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.3306229689996485,0.0,-9.862377659890626
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.361197906908274,0.0,-10.250655107455373
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.386385019630893,0.0,-10.640036861993167
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.406554659894141,0.0,-11.030402304111362
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.422055495201789,0.0,-11.421643193009231
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.433216667975728,0.0,-11.813662592531045
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.4403497380528165,0.0,-12.206373904614225
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.44374278454103,0.0,-12.599699399620818
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.443670396558673,0.0,-12.993569988871059
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat moved wrongly!
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.26014123572395,0.0,-8.66513354942174
-[01:45:04] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.3615709893987855,0.0,-9.012830168702862
-[01:45:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5817ms or 116 ticks behind
-[01:46:31] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
-[01:46:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:46:55] [Server thread/INFO]: <TrueElite> arent dogs suppoed to teleport wtf
-[01:47:00] [Server thread/INFO]: <nanonfire> did you sit htem
-[01:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01:47:03] [Server thread/INFO]: <TrueElite> no
-[01:48:24] [Server thread/INFO]: <TrueElite> found them
-[01:48:24] [Server thread/INFO]: <TrueElite> woo
-[01:48:28] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[01:48:47] [Server thread/INFO]: <TrueElite> they swim so slow wtf
-[01:49:01] [Server thread/INFO]: <TrueElite> tempted to kill and just respawn @base in survival LOL
-[01:49:07] [Server thread/INFO]: <TrueElite> creative*
-[01:49:34] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
-[01:49:55] [Server thread/INFO]: <TrueElite> do you see those
-[01:50:11] [Server thread/WARN]: TrueElite moved too quickly! -0.17364685241443567,0.03806990556586243,10.887274517741957
-[01:50:11] [Server thread/INFO]: <nanonfire> those what
-[01:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
-[01:50:17] [Server thread/INFO]: <TrueElite> "Wolf was slain by TrueElite"
-[01:50:21] [Server thread/INFO]: <nanonfire> n
-[01:50:24] [Server thread/INFO]: <TrueElite> hm
-[01:50:26] [Server thread/INFO]: <TrueElite> maybe its just the owner
-[01:52:15] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[01:56:51] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[02:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
-[02:01:28] [Server thread/WARN]: TrueElite moved wrongly!
-[02:02:19] [Server thread/INFO]: <nanonfire> so I found out what a composter does
-[02:02:30] [Server thread/INFO]: <TrueElite> ?
-[02:02:49] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
-[02:02:49] [Server thread/INFO]: <nanonfire> if you put food in it it has a chance of giving you bonemeal
-[02:02:55] [Server thread/INFO]: <TrueElite> that
-[02:02:58] [Server thread/INFO]: <TrueElite> makes a lot of sense tbh
-[02:03:15] [Server thread/INFO]: <TrueElite> bonemeal is this games fertilizer so
-[02:03:20] [Server thread/INFO]: <nanonfire> ye
-[02:05:15] [Server thread/WARN]: TrueElite moved too quickly! 0.2596862783434517,5.998776143733963,8.488823536351173
-[02:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[02:06:02] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[02:06:04] [Server thread/INFO]: TrueElite lost connection: Disconnected
-[02:06:04] [Server thread/INFO]: TrueElite left the game
-[02:09:28] [Server thread/WARN]: nanonfire moved wrongly!
-[02:44:52] [Server thread/WARN]: nanonfire moved wrongly!
-[02:47:05] [Server thread/WARN]: nanonfire moved wrongly!
-[02:49:36] [Server thread/WARN]: nanonfire moved wrongly!
-[02:53:16] [Server thread/INFO]: nanonfire lost connection: Disconnected
-[02:53:16] [Server thread/INFO]: nanonfire left the game
-[02:54:48] [Server thread/INFO]: nanonfire[/50.93.53.68:55402] logged in with entity id 28143 at (1150.8772368579532, 78.0, 431.09908467782327)
-[02:54:48] [Server thread/INFO]: nanonfire joined the game
-[02:54:53] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[02:55:59] [Server thread/INFO]: nanonfire lost connection: Disconnected
-[02:55:59] [Server thread/INFO]: nanonfire left the game
-[02:56:16] [Server thread/INFO]: nanonfire[/50.93.53.68:55421] logged in with entity id 28476 at (1154.9045005708583, 72.0, 425.8918603175626)
-[02:56:16] [Server thread/INFO]: nanonfire joined the game
-[02:56:46] [Server thread/INFO]: nanonfire lost connection: Disconnected
-[02:56:46] [Server thread/INFO]: nanonfire left the game
-[02:57:05] [Server thread/INFO]: nanonfire[/50.93.53.68:55440] logged in with entity id 28702 at (1160.2859874426308, 73.0, 439.3572418661699)
-[02:57:05] [Server thread/INFO]: nanonfire joined the game
-[03:04:19] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[03:13:43] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[03:23:05] [Server thread/INFO]: nanonfire lost connection: Disconnected
-[03:23:05] [Server thread/INFO]: nanonfire left the game
-[03:23:32] [Server thread/INFO]: nanonfire[/50.93.53.68:55505] logged in with entity id 33020 at (1154.2056978055125, 77.0, 430.54253212165474)
-[03:23:32] [Server thread/INFO]: nanonfire joined the game
-[03:23:36] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[03:33:37] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[03:39:41] [Server thread/INFO]: nanonfire lost connection: Disconnected
-[03:39:41] [Server thread/INFO]: nanonfire left the game
-[03:41:01] [Server thread/INFO]: nanonfire[/50.93.53.68:55560] logged in with entity id 35665 at (1151.0785122908517, 73.0, 436.69272467788846)
-[03:41:01] [Server thread/INFO]: nanonfire joined the game
-[03:44:27] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[03:44:41] [Server thread/INFO]: [nanonfire: Set the time to 13000]
-[03:45:03] [Server thread/INFO]: [nanonfire: Set the time to 1000]
-[03:57:05] [Server thread/INFO]: nanonfire lost connection: Disconnected
-[03:57:05] [Server thread/INFO]: nanonfire left the game
-[04:55:22] [Server thread/INFO]: Stopping the server
-[04:55:22] [Server thread/INFO]: Stopping server
-[04:55:22] [Server thread/INFO]: Saving players
-[04:55:22] [Server thread/INFO]: Saving worlds
-[04:55:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:55:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:55:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:55:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:08:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:08:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:08:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:08:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:08:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:08:18] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[07:08:18] [Server thread/INFO]: Loading properties
+[07:08:18] [Server thread/INFO]: Default game type: SURVIVAL
+[07:08:18] [Server thread/INFO]: Generating keypair
+[07:08:19] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
+[07:08:19] [Server thread/INFO]: Using default channel type
+[07:08:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:08:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:08:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:08:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:08:20] [Server thread/INFO]: Preparing level "world"
+[07:08:20] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:08:21] [Server thread/INFO]: Loaded 6 recipes
+[07:08:21] [Server thread/INFO]: Loaded 825 advancements
+[07:08:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:08:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:08:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:08:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:08:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:08:24] [Server thread/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[07:08:30] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[07:08:31] [Server thread/INFO]: Time elapsed: 8342 ms
+[07:08:31] [Server thread/INFO]: Done (10.772s)! For help, type "help"
+[07:21:16] [Server thread/INFO]: TrueElite[/192.168.2.63:54451] logged in with entity id 88 at (845.7454236981848, 67.0, 24.529951217659228)
+[07:21:16] [Server thread/INFO]: TrueElite joined the game
+[07:21:20] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[07:21:23] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[07:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07:30:20] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[07:39:12] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[07:44:10] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[07:44:44] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[07:46:52] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[07:49:02] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[07:58:20] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[08:00:01] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[08:03:34] [Server thread/WARN]: TrueElite moved too quickly! -0.048791640398690106,10.003500521857475,-2.7554537219902855
+[08:14:48] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[08:23:38] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[08:32:11] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[08:37:40] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[08:49:25] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[08:54:17] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[09:00:27] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[09:06:35] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[09:15:38] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[09:20:02] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[09:23:34] [Server thread/WARN]: TrueElite moved too quickly! -8.847643683453612,-5.240559771961983,-2.379990680416391
+[09:33:34] [Server thread/WARN]: TrueElite moved too quickly! 8.945648866267334,3.181831406322857,3.3392430688867734
+[09:37:49] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
+[09:37:51] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[09:37:51] [Server thread/INFO]: TrueElite left the game
+[21:58:53] [Server thread/INFO]: TrueElite[/192.168.2.63:55679] logged in with entity id 23095 at (833.3831952928914, 64.0, 16.34764296236775)
+[21:58:53] [Server thread/INFO]: TrueElite joined the game
+[22:01:24] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[22:03:36] [Server thread/WARN]: TrueElite moved too quickly! 3.607897622496921,2.6251812003382753,9.127707657623732
+[22:09:30] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[22:12:55] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[22:18:36] [Server thread/WARN]: TrueElite moved too quickly! 0.1553718959443131,10.125000402296294,0.2452904968691243
+[22:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[22:23:38] [Server thread/WARN]: TrueElite moved too quickly! 3.625849803826668,0.0,9.582175214727148
+[22:28:38] [Server thread/WARN]: TrueElite moved too quickly! -7.461484473696373,-6.733436749579965,0.005566517719742592
+[22:30:04] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[22:32:30] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[22:36:09] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
+[22:36:27] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[22:37:43] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
+[22:37:47] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[22:37:51] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
+[22:38:28] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[22:39:19] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[22:41:30] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[22:43:38] [Server thread/WARN]: TrueElite moved too quickly! -1.3859546668084022,9.371735415434472,3.3815181192369934
+[22:44:33] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[22:46:12] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[22:48:19] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[22:56:04] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
+[22:56:05] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[22:56:05] [Server thread/INFO]: TrueElite left the game
+[22:57:47] [Server thread/INFO]: TrueElite[/192.168.2.63:55969] logged in with entity id 33894 at (833.5144557644181, 67.0, 13.389602463219811)
+[22:57:47] [Server thread/INFO]: TrueElite joined the game
+[22:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22:58:53] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[22:58:53] [Server thread/INFO]: TrueElite left the game
+[23:01:19] [Server thread/INFO]: Stopping the server
+[23:01:19] [Server thread/INFO]: Stopping server
+[23:01:19] [Server thread/INFO]: Saving players
+[23:01:19] [Server thread/INFO]: Saving worlds
+[23:01:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:01:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:01:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:01:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
