@@ -1,201 +1,72 @@
-[17:21:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:21:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:28] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[17:21:28] [Server thread/INFO]: Loading properties
-[17:21:28] [Server thread/INFO]: Default game type: SURVIVAL
-[17:21:28] [Server thread/INFO]: Generating keypair
-[17:21:29] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
-[17:21:29] [Server thread/INFO]: Using default channel type
-[17:21:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:21:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:21:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:21:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:21:31] [Server thread/INFO]: Preparing level "world"
-[17:21:31] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:21:33] [Server thread/INFO]: Loaded 6 recipes
-[17:21:33] [Server thread/INFO]: Loaded 825 advancements
-[17:21:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:21:37] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:37] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:37] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:37] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:37] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:37] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:38] [Server thread/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:21:47] [Server thread/INFO]: Preparing spawn area: 57%
-[17:21:47] [Server thread/INFO]: Time elapsed: 12629 ms
-[17:21:47] [Server thread/INFO]: Done (16.058s)! For help, type "help"
-[17:31:26] [Server thread/INFO]: Aphanic[/198.53.215.172:51766] logged in with entity id 89 at (753.1261333493076, 87.0, -37.19220761486888)
-[17:31:26] [Server thread/INFO]: Aphanic joined the game
-[17:32:00] [Server thread/INFO]: [Aphanic: Set own game mode to Spectator Mode]
-[17:32:41] [Server thread/INFO]: [Aphanic: Set own game mode to Creative Mode]
-[17:33:04] [Server thread/INFO]: [Aphanic: Set the time to 1000]
-[17:34:44] [Server thread/INFO]: [Aphanic: Set own game mode to Spectator Mode]
-[17:35:13] [Server thread/INFO]: [Aphanic: Set own game mode to Creative Mode]
-[17:35:25] [Server thread/INFO]: [Aphanic: Set own game mode to Survival Mode]
-[17:43:51] [Server thread/INFO]: [Aphanic: Set own game mode to Spectator Mode]
-[17:46:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[17:46:59] [Server thread/INFO]: [Aphanic: The difficulty has been set to Peaceful]
-[17:47:03] [Server thread/INFO]: [Aphanic: Set own game mode to Survival Mode]
-[17:47:31] [Server thread/INFO]: [Aphanic: Set own game mode to Spectator Mode]
-[17:48:39] [Server thread/INFO]: [Aphanic: Set own game mode to Survival Mode]
-[17:49:11] [Server thread/INFO]: [Aphanic: Set own game mode to Spectator Mode]
-[17:51:51] [Server thread/WARN]: Aphanic moved too quickly! 0.5022456432141098,2.2445958642460457,10.16830861611163
-[17:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[17:52:12] [Server thread/INFO]: [Aphanic: Set own game mode to Survival Mode]
-[17:54:58] [Server thread/INFO]: [Aphanic: Gave 1 [Torch] to Aphanic]
-[17:55:19] [Server thread/INFO]: [Aphanic: Gave 1 [Torch] to Aphanic]
-[17:55:26] [Server thread/INFO]: [Aphanic: Gave 128 [Torch] to Aphanic]
-[17:57:12] [Server thread/INFO]: TrueElite[/192.168.2.63:50408] logged in with entity id 3473 at (833.537982475144, 67.0, 13.70693440565007)
-[17:57:12] [Server thread/INFO]: TrueElite joined the game
-[17:57:23] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
-[17:57:32] [Server thread/INFO]: <TrueElite> the dick is no more
-[17:57:33] [Server thread/INFO]: <TrueElite> f
-[17:57:42] [Server thread/INFO]: <Aphanic> i burned it down
-[17:57:49] [Server thread/INFO]: <TrueElite> u
-[17:57:50] [Server thread/INFO]: <TrueElite> burned a dick down
-[17:57:51] [Server thread/INFO]: <TrueElite> wtf
-[17:58:19] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[17:58:35] [Server thread/INFO]: [TrueElite: Set the time to 0]
-[17:58:37] [Server thread/INFO]: [Aphanic: Gave 1 [Wooden Shovel] to Aphanic]
-[17:59:18] [Server thread/INFO]: [Aphanic: Set own game mode to Spectator Mode]
-[17:59:20] [Server thread/INFO]: <Aphanic> afk
-[18:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -1.86422235203122,0.0,-10.084107380747696
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -1.9370663854790564,0.0,-10.467534378455923
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.0117488968151065,0.0,-10.851564435280238
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.0885781667501533,0.0,-11.2360186804803
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.1677855753889617,0.0,-11.620741505988008
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.2495299190421747,0.0,-12.005600806864663
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.333916098729219,0.0,-12.390484014211495
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.4210007620976057,0.0,-12.775297177196023
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.5108010449721405,0.0,-13.159962944782592
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.6033060597321764,0.0,-13.54441740446049
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.698476181913861,0.0,-13.928610411046293
-[18:01:52] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.7962570438868397,0.0,-14.31250126324636
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.594232253752125,0.0,-9.94768533352351
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.719724246236524,0.0,-10.326372078840166
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.846312200217767,0.0,-10.704790799430555
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -2.973922562635039,0.0,-11.082955195927696
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.102485519409697,0.0,-11.460878884126146
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.2319310266419734,0.0,-11.83857672221859
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.3621960373732236,0.0,-12.21606206395171
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.493220202329894,0.0,-12.593348238999283
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.6249492043730243,0.0,-12.970447225440978
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.75733055479202,0.0,-13.347371118575722
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.8903170100232956,0.0,-13.724130796721681
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.023862450367574,0.0,-14.100737372842957
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.1579217694661565,0.0,-14.477202167359735
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.292457966502525,0.0,-14.853534034996017
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.427434142112361,0.0,-15.229742274931823
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.562813490100552,0.0,-15.605836586357555
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.698566480729141,0.0,-15.981824364890485
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.4629991722425757,0.0,-9.793340759941259
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.6011739306474055,0.0,-10.168618014823892
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.739496710436015,0.0,-10.543850392975116
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.8779563025091193,0.0,-10.919041044689891
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.01653902563487,0.0,-11.294194142612923
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.15523616067901,0.0,-11.669312104745018
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.294036266446938,0.0,-12.044398444666115
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.432932638906323,0.0,-12.419454983493551
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.571915651385666,0.0,-12.794484701337467
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.7109766398809825,0.0,-13.16949028029677
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.850111399831235,0.0,-13.544472793156046
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.989312554089224,0.0,-13.91943454652585
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -5.128573463222551,0.0,-14.294377616355575
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.6176705950705355,0.0,-9.749449874751008
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.7567384465928626,0.0,-10.124483623509661
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.663092286373853,0.0,18.609756633074994
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 5.794902822644644,0.0,18.986730431301055
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.272865872348461,0.0,28.361379644836916
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.272865872348461,0.0,28.361379644836916
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 9.147522641609498,0.0,27.982670691160024
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.677101240430943,0.0,18.41401074418951
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.802947938445868,0.0,18.79266434567444
-[18:01:53] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! 6.676597374921471,0.0,18.4140780961024
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.0976037037612514,0.0,-9.924365124461588
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.21675664736847,0.0,-10.306181064275506
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.3359099048772123,0.0,-10.68799940304666
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.455063444897519,0.0,-11.069819900879224
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.574217239178097,0.0,-11.451642341867057
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.693371262292885,0.0,-11.833466531694569
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.8125254913585422,0.0,-12.215292295477752
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -3.9316799057800154,0.0,-12.597119475820989
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.050834487021575,0.0,-12.978947931068262
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.169989218401383,0.0,-13.360777533729106
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.289144084905502,0.0,-13.74260816906218
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.408299073021453,0.0,-14.124439733800216
-[18:01:59] [Server thread/WARN]: Boat (vehicle of TrueElite) moved too quickly! -4.5274541705881575,0.0,-14.506272135002689
-[18:07:00] [Server thread/WARN]: TrueElite moved wrongly!
-[18:09:08] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[18:09:58] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[18:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
-[18:13:45] [Server thread/INFO]: Aphanic lost connection: Disconnected
-[18:13:45] [Server thread/INFO]: Aphanic left the game
-[18:14:20] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[18:19:24] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[18:22:56] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
-[18:29:06] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[18:29:27] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
-[18:35:06] [Server thread/INFO]: [TrueElite: Set the time to 0]
-[19:02:07] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[19:02:08] [Server thread/INFO]: TrueElite lost connection: Disconnected
-[19:02:08] [Server thread/INFO]: TrueElite left the game
-[21:50:04] [Server thread/INFO]: Stopping the server
-[21:50:04] [Server thread/INFO]: Stopping server
-[21:50:04] [Server thread/INFO]: Saving players
-[21:50:04] [Server thread/INFO]: Saving worlds
-[21:50:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:50:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:50:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:50:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:50:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:50:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:50:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:50:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:50:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:44:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:44:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:44:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:44:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:44:37] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:44:37] [Server thread/INFO]: Loading properties
+[21:44:37] [Server thread/INFO]: Default game type: SURVIVAL
+[21:44:37] [Server thread/INFO]: Generating keypair
+[21:44:38] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
+[21:44:38] [Server thread/INFO]: Using default channel type
+[21:44:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:44:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:44:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:44:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:44:39] [Server thread/INFO]: Preparing level "world"
+[21:44:40] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:44:40] [Server thread/INFO]: Loaded 6 recipes
+[21:44:41] [Server thread/INFO]: Loaded 825 advancements
+[21:44:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:44:54] [Server thread/INFO]: Time elapsed: 12026 ms
+[21:44:54] [Server thread/INFO]: Done (14.663s)! For help, type "help"
+[21:45:44] [Server thread/INFO]: TrueElite[/192.168.2.63:56575] logged in with entity id 87 at (833.3311651058015, 67.0, 13.599665520467939)
+[21:45:44] [Server thread/INFO]: TrueElite joined the game
+[21:46:01] [Server thread/INFO]: [TrueElite: Set the weather to clear]
+[21:46:03] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[21:46:06] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[21:49:36] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[21:49:36] [Server thread/INFO]: TrueElite left the game
+[21:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
+[21:50:17] [Server thread/INFO]: TrueElite[/192.168.2.63:56637] logged in with entity id 1151 at (833.6513777962786, 67.0, 15.61969839514812)
+[21:50:17] [Server thread/INFO]: TrueElite joined the game
+[21:51:11] [Server thread/INFO]: [TrueElite: Set the weather to clear]
+[21:51:44] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
+[21:51:47] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[21:51:47] [Server thread/INFO]: TrueElite left the game
+[21:51:51] [Server thread/INFO]: Stopping the server
+[21:51:51] [Server thread/INFO]: Stopping server
+[21:51:51] [Server thread/INFO]: Saving players
+[21:51:51] [Server thread/INFO]: Saving worlds
+[21:51:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:51:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:51:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:51:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
