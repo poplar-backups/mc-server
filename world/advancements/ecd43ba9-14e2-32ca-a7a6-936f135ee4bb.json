@@ -1511,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-05-13 20:56:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-22 01:26:49 -0400"
