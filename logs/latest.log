@@ -1,87 +1,52 @@
-[20:16:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:16:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:16:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:16:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:16:52] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:16:52] [Server thread/INFO]: Loading properties
-[20:16:52] [Server thread/INFO]: Default game type: SURVIVAL
-[20:16:52] [Server thread/INFO]: Generating keypair
-[20:16:53] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
-[20:16:53] [Server thread/INFO]: Using default channel type
-[20:16:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:16:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:16:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:16:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:16:55] [Server thread/INFO]: Preparing level "world"
-[20:16:55] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:16:56] [Server thread/INFO]: Loaded 6 recipes
-[20:16:56] [Server thread/INFO]: Loaded 825 advancements
-[20:16:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:02] [Server thread/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:12] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[20:17:13] [Server thread/INFO]: Time elapsed: 14443 ms
-[20:17:13] [Server thread/INFO]: Done (17.655s)! For help, type "help"
-[20:18:08] [Server thread/INFO]: TrueElite[/192.168.2.63:62876] logged in with entity id 87 at (833.8364087653408, 67.0, 14.294372608628116)
-[20:18:08] [Server thread/INFO]: TrueElite joined the game
-[20:19:46] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
-[20:20:40] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[20:21:38] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[20:21:50] [Server thread/INFO]: [TrueElite: Gave 1 [Command Block] to TrueElite]
-[20:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
-[20:26:47] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[20:29:41] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[20:31:52] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[20:36:58] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[20:36:59] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[20:42:04] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[20:42:05] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[20:42:17] [Server thread/WARN]: TrueElite moved too quickly! 8.126842958801262,2.8068314062808355,5.899275332093058
-[20:47:10] [Server thread/INFO]: [TrueElite: Set the weather to clear]
-[20:51:28] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[21:02:51] [Server thread/INFO]: [TrueElite: Set the time to 1000]
-[21:11:56] [Server thread/INFO]: [TrueElite: Set the time to 18000]
-[21:12:17] [Server thread/WARN]: TrueElite moved too quickly! 7.956921223362315,0.0,6.352765421645672
-[21:27:17] [Server thread/WARN]: TrueElite moved too quickly! -6.2305458344264935,0.0,7.965666719809281
-[21:30:59] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
-[21:31:00] [Server thread/INFO]: TrueElite lost connection: Disconnected
-[21:31:00] [Server thread/INFO]: TrueElite left the game
-[21:31:06] [Server thread/INFO]: Stopping the server
-[21:31:06] [Server thread/INFO]: Stopping server
-[21:31:06] [Server thread/INFO]: Saving players
-[21:31:06] [Server thread/INFO]: Saving worlds
-[21:31:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:31:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:31:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:31:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:10:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:10:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:10:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:10:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:10:04] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[00:10:04] [Server thread/INFO]: Loading properties
+[00:10:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:10:04] [Server thread/INFO]: Generating keypair
+[00:10:05] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
+[00:10:05] [Server thread/INFO]: Using default channel type
+[00:10:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:10:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:10:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:10:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:10:06] [Server thread/INFO]: Preparing level "world"
+[00:10:06] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:10:08] [Server thread/INFO]: Loaded 6 recipes
+[00:10:08] [Server thread/INFO]: Loaded 825 advancements
+[00:10:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:13] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:10:25] [Server thread/INFO]: Time elapsed: 15452 ms
+[00:10:25] [Server thread/INFO]: Done (19.031s)! For help, type "help"
