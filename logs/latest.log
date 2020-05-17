@@ -1,59 +1,108 @@
-[14:21:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:21:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:21:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:21:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:21:18] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[14:21:18] [Server thread/INFO]: Loading properties
-[14:21:18] [Server thread/INFO]: Default game type: SURVIVAL
-[14:21:18] [Server thread/INFO]: Generating keypair
-[14:21:19] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
-[14:21:19] [Server thread/INFO]: Using default channel type
-[14:21:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:21:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:21:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:21:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:21:20] [Server thread/INFO]: Preparing level "world"
-[14:21:20] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:21:21] [Server thread/INFO]: Loaded 6 recipes
-[14:21:21] [Server thread/INFO]: Loaded 825 advancements
-[14:21:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[14:21:35] [Server thread/INFO]: Time elapsed: 12492 ms
-[14:21:35] [Server thread/INFO]: Done (15.119s)! For help, type "help"
-[22:26:56] [Server thread/INFO]: Stopping the server
-[22:26:56] [Server thread/INFO]: Stopping server
-[22:26:56] [Server thread/INFO]: Saving players
-[22:26:56] [Server thread/INFO]: Saving worlds
-[22:26:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:26:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:26:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:47:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:47:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:47:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:47:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:47:47] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:47:47] [Server thread/INFO]: Loading properties
+[13:47:47] [Server thread/INFO]: Default game type: SURVIVAL
+[13:47:47] [Server thread/INFO]: Generating keypair
+[13:47:47] [Server thread/INFO]: Starting Minecraft server on 192.168.2.63:25565
+[13:47:47] [Server thread/INFO]: Using default channel type
+[13:47:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:47:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:47:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:47:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:47:52] [Server thread/INFO]: Preparing level "world"
+[13:47:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:47:53] [Server thread/INFO]: Loaded 6 recipes
+[13:47:54] [Server thread/INFO]: Loaded 825 advancements
+[13:47:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[13:48:05] [Server thread/INFO]: Preparing spawn area: 6%
+[13:48:06] [Server thread/INFO]: Time elapsed: 10214 ms
+[13:48:06] [Server thread/INFO]: Done (13.411s)! For help, type "help"
+[13:54:26] [Server thread/INFO]: TrueElite[/192.168.2.63:59659] logged in with entity id 87 at (832.9408324796926, 67.0, 13.794851226530495)
+[13:54:26] [Server thread/INFO]: TrueElite joined the game
+[13:54:40] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[13:55:29] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[13:57:34] [Server thread/INFO]: [TrueElite: Set the time to 0]
+[14:14:01] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[14:16:48] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[14:23:08] [Server thread/WARN]: TrueElite moved too quickly! -1.7752919320378169,-6.342092686342113,7.565397007383837
+[14:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[14:28:10] [Server thread/WARN]: TrueElite moved too quickly! -5.220662680545274,0.0,-8.688630397161447
+[14:33:10] [Server thread/WARN]: TrueElite moved too quickly! -4.19261202219036,0.0,9.258242842667833
+[14:38:10] [Server thread/WARN]: TrueElite moved too quickly! 0.5337725022374116,-5.999999279167,-8.226206466669193
+[14:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[14:43:13] [Server thread/WARN]: TrueElite moved too quickly! 1.7308302330477545,-9.955873994131721,0.25930794084746367
+[14:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
+[14:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
+[14:49:48] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
+[14:49:56] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[14:49:56] [Server thread/INFO]: TrueElite left the game
+[15:54:08] [Server thread/INFO]: TrueElite[/192.168.2.63:60333] logged in with entity id 12388 at (833.3017084418708, 67.0, 14.10573586961905)
+[15:54:08] [Server thread/INFO]: TrueElite joined the game
+[15:54:45] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[16:23:04] [Server thread/INFO]: TrueElite has made the advancement [A Throwaway Joke]
+[16:23:17] [Server thread/WARN]: TrueElite moved too quickly! 5.189207592035245,8.272543639431483,-3.174660337601697
+[16:51:34] [Server thread/INFO]: [TrueElite: Set own game mode to Spectator Mode]
+[16:52:01] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[16:57:42] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[16:58:18] [Server thread/WARN]: TrueElite moved too quickly! -5.644107606470584,3.526499411823366,-7.787901250868706
+[16:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[17:30:03] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[17:43:19] [Server thread/WARN]: TrueElite moved too quickly! -5.7127253628009385,0.0,8.873921334179986
+[17:52:42] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
+[17:52:43] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[17:52:43] [Server thread/INFO]: TrueElite left the game
+[19:26:12] [Server thread/INFO]: TrueElite[/192.168.2.63:61115] logged in with entity id 33215 at (833.4254670076535, 67.0, 14.450238304303799)
+[19:26:12] [Server thread/INFO]: TrueElite joined the game
+[19:26:24] [Server thread/INFO]: [TrueElite: Set own game mode to Creative Mode]
+[19:36:22] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[19:43:19] [Server thread/WARN]: TrueElite moved too quickly! -7.077607701910665,6.937520841563526,-1.485034996013617
+[19:43:44] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[19:43:44] [Server thread/INFO]: TrueElite left the game
+[19:57:12] [Server thread/INFO]: TrueElite[/192.168.2.63:61252] logged in with entity id 36396 at (895.1515367286346, 79.0, 2.792562516416888)
+[19:57:12] [Server thread/INFO]: TrueElite joined the game
+[20:05:57] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[20:15:21] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[20:43:19] [Server thread/WARN]: TrueElite moved too quickly! 6.860382605029486,5.2449628968383735,-5.187655687977164
+[20:53:19] [Server thread/WARN]: TrueElite moved too quickly! 0.7350445637539451,-8.073756666250262,-5.912737870272911
+[20:56:28] [Server thread/INFO]: [TrueElite: Set the time to 18000]
+[20:56:39] [Server thread/INFO]: [TrueElite: Set the time to 1000]
+[20:58:19] [Server thread/WARN]: TrueElite moved too quickly! -1.0289394618777123,-1.4570444456909257,-9.848975613676146
+[21:00:28] [Server thread/INFO]: [TrueElite: Set own game mode to Survival Mode]
+[21:00:29] [Server thread/INFO]: TrueElite lost connection: Disconnected
+[21:00:29] [Server thread/INFO]: TrueElite left the game
+[21:00:33] [Server thread/INFO]: Stopping the server
+[21:00:33] [Server thread/INFO]: Stopping server
+[21:00:33] [Server thread/INFO]: Saving players
+[21:00:33] [Server thread/INFO]: Saving worlds
+[21:00:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:00:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:00:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:00:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

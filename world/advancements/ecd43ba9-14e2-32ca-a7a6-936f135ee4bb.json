@@ -697,6 +697,7 @@
       "minecraft:spider": "2020-04-22 16:30:09 -0400",
       "minecraft:creeper": "2020-04-22 18:42:32 -0400",
       "minecraft:phantom": "2020-04-23 20:48:24 -0400",
+      "minecraft:witch": "2020-05-16 14:16:19 -0400",
       "minecraft:husk": "2020-04-22 16:29:28 -0400",
       "minecraft:enderman": "2020-04-24 23:20:54 -0400",
       "minecraft:zombie": "2020-04-22 03:05:31 -0400",
@@ -1725,6 +1726,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-04-22 01:30:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-05-16 19:42:33 -0400"
     },
     "done": true
   },
@@ -2833,6 +2840,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-23 18:21:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2020-05-16 16:23:04 -0400"
     },
     "done": true
   },
