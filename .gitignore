@@ -1,5 +1,5 @@
 # ignore non-server files
-./Inspo
+Inspo
 
 # avoid bloating logs
-./logs
+logs
