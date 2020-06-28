@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2020-06-27 18:50:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-23 17:06:41 -0400"
@@ -602,6 +608,7 @@
       "minecraft:skeleton": "2020-04-22 23:30:57 -0400",
       "minecraft:spider": "2020-04-23 18:53:05 -0400",
       "minecraft:creeper": "2020-04-22 23:03:33 -0400",
+      "minecraft:enderman": "2020-06-27 16:26:24 -0400",
       "minecraft:zombie": "2020-04-22 15:03:20 -0400",
       "minecraft:drowned": "2020-04-22 02:13:35 -0400",
       "minecraft:zombie_villager": "2020-04-23 17:59:55 -0400"
@@ -683,6 +690,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-04-22 01:41:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2020-06-27 18:50:01 -0400"
     },
     "done": true
   },
@@ -923,6 +936,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-04-22 01:23:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-06-27 18:34:46 -0400"
     },
     "done": true
   },
@@ -1196,6 +1215,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-22 01:23:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-06-27 18:41:53 -0400"
     },
     "done": true
   },
