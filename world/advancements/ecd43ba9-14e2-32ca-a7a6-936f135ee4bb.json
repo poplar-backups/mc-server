@@ -2555,7 +2555,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:strider": "2020-06-27 20:16:20 -0400"
+      "minecraft:strider": "2020-06-27 20:16:20 -0400",
+      "minecraft:chicken": "2020-07-02 19:04:53 -0400"
     },
     "done": false
   },
