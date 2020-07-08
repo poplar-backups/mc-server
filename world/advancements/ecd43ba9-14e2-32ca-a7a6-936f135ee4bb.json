@@ -1474,6 +1474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-07-07 23:57:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2020-07-05 15:37:31 -0400"
@@ -1708,6 +1714,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-04-22 02:10:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-07-08 00:16:51 -0400"
     },
     "done": true
   },
@@ -2427,6 +2439,7 @@
       "cooked_cod": "2020-04-24 21:43:27 -0400",
       "bread": "2020-04-22 01:32:00 -0400",
       "golden_apple": "2020-06-30 18:26:59 -0400",
+      "salmon": "2020-07-08 00:07:02 -0400",
       "cod": "2020-07-06 22:44:20 -0400",
       "cooked_salmon": "2020-04-22 03:42:05 -0400"
     },

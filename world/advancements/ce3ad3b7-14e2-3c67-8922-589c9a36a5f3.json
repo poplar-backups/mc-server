@@ -584,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-07-07 22:12:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-22 02:00:21 -0400"
@@ -1388,7 +1394,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2020-07-06 22:37:25 -0400"
+      "minecraft:nether_wastes": "2020-07-06 22:37:25 -0400",
+      "minecraft:warped_forest": "2020-07-07 22:06:20 -0400"
     },
     "done": false
   },
@@ -2591,6 +2598,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-24 22:43:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-07-07 22:12:35 -0400"
     },
     "done": true
   },
