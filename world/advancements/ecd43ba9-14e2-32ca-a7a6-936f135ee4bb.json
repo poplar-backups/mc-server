@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-07-08 21:46:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-22 01:26:33 -0400"
@@ -518,6 +524,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2020-07-05 15:37:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-07-08 19:56:17 -0400"
     },
     "done": true
   },
@@ -826,6 +838,7 @@
       "minecraft:magma_cube": "2020-06-28 13:02:45 -0400",
       "minecraft:spider": "2020-04-22 16:30:09 -0400",
       "minecraft:creeper": "2020-04-22 18:42:32 -0400",
+      "minecraft:slime": "2020-07-08 19:15:46 -0400",
       "minecraft:phantom": "2020-04-23 20:48:24 -0400",
       "minecraft:zombified_piglin": "2020-06-27 19:51:43 -0400",
       "minecraft:witch": "2020-05-16 14:16:19 -0400",
@@ -1992,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-07-08 19:55:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2020-04-22 16:39:08 -0400"
@@ -2437,6 +2456,7 @@
       "apple": "2020-04-22 03:02:25 -0400",
       "potato": "2020-04-22 02:24:46 -0400",
       "cooked_cod": "2020-04-24 21:43:27 -0400",
+      "pufferfish": "2020-07-08 17:17:27 -0400",
       "bread": "2020-04-22 01:32:00 -0400",
       "golden_apple": "2020-06-30 18:26:59 -0400",
       "salmon": "2020-07-08 00:07:02 -0400",
@@ -3055,6 +3075,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-04-24 22:39:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-07-08 21:46:19 -0400"
     },
     "done": true
   },
