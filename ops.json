@@ -30,6 +30,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "c7233411-c3cd-37fe-b530-85960328c687",
+    "name": "LiveInASociety",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "911568ac-785a-3fca-a103-db713474cac8",
     "name": "Aphanic",
     "level": 4,
