@@ -12,4 +12,4 @@ echo Server is currently off!
 echo Press any key to restart the server.
 pause >nul
 @echo on
-goto :top
+goto :start
