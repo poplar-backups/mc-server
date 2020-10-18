@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-10-11 01:52:02 -0400"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2020-10-11 23:51:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-10-17 21:54:26 -0400"
     },
     "done": true
   },
@@ -257,9 +269,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-10-17 23:37:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-10-11 03:06:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-10-17 20:50:59 -0400"
     },
     "done": true
   },
@@ -323,9 +347,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-10-11 13:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2020-10-17 21:55:12 -0400"
     },
     "done": true
   },
@@ -563,6 +599,7 @@
       "minecraft:spider": "2020-10-11 02:26:18 -0400",
       "minecraft:creeper": "2020-10-11 03:05:32 -0400",
       "minecraft:phantom": "2020-10-12 01:22:57 -0400",
+      "minecraft:cave_spider": "2020-10-17 20:32:14 -0400",
       "minecraft:zombie": "2020-10-11 02:19:07 -0400"
     },
     "done": false
@@ -573,9 +610,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-10-17 23:46:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-10-11 14:12:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-10-17 21:41:05 -0400"
     },
     "done": true
   },
@@ -612,6 +661,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-10-11 22:54:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-10-17 21:55:04 -0400"
     },
     "done": true
   },
@@ -666,6 +721,12 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2020-10-11 23:50:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-10-17 21:41:05 -0400"
     },
     "done": true
   },
@@ -750,6 +811,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone": "2020-10-11 23:50:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-10-17 21:55:12 -0400"
     },
     "done": true
   },
@@ -963,6 +1030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-10-17 23:21:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-10-11 22:54:44 -0400"
@@ -1095,15 +1168,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2020-10-17 21:55:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-10-11 02:35:26 -0400",
       "minecraft:mountains": "2020-10-11 02:53:54 -0400",
       "minecraft:taiga": "2020-10-11 02:51:39 -0400",
+      "minecraft:deep_cold_ocean": "2020-10-17 23:37:29 -0400",
       "minecraft:desert": "2020-10-11 19:51:47 -0400",
       "minecraft:birch_forest": "2020-10-11 01:46:53 -0400",
       "minecraft:warm_ocean": "2020-10-11 19:55:54 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-10-11 19:55:51 -0400",
+      "minecraft:badlands": "2020-10-17 23:38:19 -0400",
       "minecraft:savanna_plateau": "2020-10-11 19:51:40 -0400",
       "minecraft:beach": "2020-10-11 19:55:34 -0400",
       "minecraft:dark_forest": "2020-10-11 02:52:31 -0400",
@@ -1112,6 +1193,7 @@
       "minecraft:birch_forest_hills": "2020-10-11 02:34:34 -0400",
       "minecraft:wooded_mountains": "2020-10-11 02:53:14 -0400",
       "minecraft:wooded_hills": "2020-10-11 02:39:38 -0400",
+      "minecraft:stone_shore": "2020-10-17 23:36:41 -0400",
       "minecraft:swamp": "2020-10-11 02:42:43 -0400",
       "minecraft:savanna": "2020-10-11 19:51:41 -0400",
       "minecraft:plains": "2020-10-11 01:46:57 -0400"
@@ -1121,6 +1203,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-11 01:56:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-10-17 23:21:41 -0400"
     },
     "done": true
   },
@@ -1151,6 +1239,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2020-10-12 00:18:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-10-17 20:32:15 -0400"
     },
     "done": true
   },
@@ -1214,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-10-17 21:58:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2020-10-11 23:36:44 -0400"
@@ -1232,9 +1332,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-10-17 21:55:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-10-11 13:58:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-10-17 21:41:05 -0400"
     },
     "done": true
   },
@@ -1310,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-10-17 21:54:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2020-10-11 01:57:08 -0400"
@@ -1325,6 +1443,24 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2020-10-11 02:00:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-10-17 21:54:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-10-17 20:29:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-10-17 21:55:12 -0400"
     },
     "done": true
   },
@@ -1638,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-10-11 02:27:25 -0400"
@@ -1677,6 +1819,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-10-11 02:26:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
     },
     "done": true
   },
@@ -1911,6 +2059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-10-17 20:50:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-10-11 14:30:49 -0400"
@@ -2097,6 +2251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-10-11 02:41:49 -0400"
@@ -2232,6 +2392,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-10-11 13:44:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
     },
     "done": true
   },
@@ -2418,6 +2584,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-10-11 03:18:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-10-17 20:50:59 -0400"
     },
     "done": true
   },
@@ -2622,6 +2794,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_pink_dye": "2020-10-11 02:05:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-10-17 20:38:31 -0400"
     },
     "done": true
   },
