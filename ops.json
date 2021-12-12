@@ -48,6 +48,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "a899bdc9-651d-4fb5-b6f3-f36bf884fcea",
+    "name": "DoggoShock",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ce3ad3b7-14e2-3c67-8922-589c9a36a5f3",
     "name": "nanonfire",
     "level": 4,
